@@ -126,7 +126,6 @@ export default [
   "Hello IT, have you tried turning it off and on again?",
   "If you type Google into Google you can break the internet",
   "Well, this is embarrassing.",
-  "Didn't know paint dried so quickly.",
   "What is the airspeed velocity of an unladen swallow?",
   "Hello, IT... Have you tried forcing an unexpected reboot?",
   "They just toss us away like yesterday's jam.",
@@ -188,4 +187,5 @@ export default [
   "Go ahead, hold your breath and do ironman plank till loading complete",
   "Bored of slow loading spinner, buy more RAM!",
   "Help, I'm trapped in a loader!",
+  "What is the difference btwn a hippo and a zippo? One is really heavy, the other is a little lighter",
 ];
