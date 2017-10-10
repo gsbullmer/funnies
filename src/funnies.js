@@ -207,4 +207,13 @@ export default [
   "Some things man was never meant to know. For everything else, there's Google.",
   "Unix is user-friendly. It's just very selective about who its friends are.",
   "Shovelling coal into the server",
+  "Pushing pixels...",
+  "How about this weather, eh?",
+  "Building a wall...",
+  "Everything is this universe is either a potato or not a potato",
+  "The severity of your issue is always lower than you expected.",
+  "Updating Updater...",
+  "Downloading Downloader...",
+  "Debugging Debugger...",
+  "Reading Terms and Conditions for you.",
 ];
